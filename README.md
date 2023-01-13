@@ -2,6 +2,7 @@
 This is about the results and source code of our CCBDA final project about video diffusion generation.
 
 Unconditional generation of surfing video(generation from model at epoch 1, epoch 65, epoch 750) :
+
 ![](https://github.com/statzhang0720/CCBDA-final-project---Video-diffusion/blob/main/gif/Unconditional/1.gif)
 ![](https://github.com/statzhang0720/CCBDA-final-project---Video-diffusion/blob/main/gif/Unconditional/13.gif)
 ![](https://github.com/statzhang0720/CCBDA-final-project---Video-diffusion/blob/main/gif/Unconditional/58.gif)
